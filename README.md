@@ -8,4 +8,5 @@ curl http://localhost:5000/joke -UseBasicParsing
 
 The joke will be displayed in the format shown above.
 
-(Time spent: Approximately 4 hours)
+
+(Time Spent: Approximately 4 hours)
