@@ -5,7 +5,9 @@ Run webServer.go
 In the terminal, enter the command: 
 ```
 $ curl http://localhost:5000/joke -UseBasicParsing
-or
+
+OR
+
 Enter http://localhost:5000/joke into the web browser
 ```
 # Example
