@@ -5,6 +5,8 @@ Run webServer.go
 In the terminal, enter the command: 
 ```
 $ curl http://localhost:5000/joke -UseBasicParsing
+or
+Enter http://localhost:5000/joke into the web browser
 ```
 # Example
 The joke will be displayed in the format shown below.
