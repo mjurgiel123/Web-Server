@@ -1,6 +1,6 @@
 # Using the web server
 
-Run webServer.go
+Run webserver.go
 
 In the terminal, enter the command: 
 ```
