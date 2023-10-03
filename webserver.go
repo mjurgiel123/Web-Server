@@ -1,3 +1,6 @@
+//connects to Two APIs: One generates a random joke, and one generates a random name
+//Both are combined together
+
 package main
 
 import (
